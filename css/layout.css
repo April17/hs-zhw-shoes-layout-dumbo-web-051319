@@ -54,3 +54,7 @@ section {
 .col-3 {
   background: #fff;
 }
+.col-1-2 {
+  float: left;
+  width: 32%;
+}
