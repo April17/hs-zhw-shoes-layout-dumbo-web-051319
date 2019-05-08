@@ -51,3 +51,6 @@ section {
   width: 66%;
   background: #fff;
 }
+.col-3 {
+  background: #ccc;
+}
