@@ -29,6 +29,10 @@
 .first {
   margin-left: 0%;
 }
+section {
+  margin-bottom: 20px;
+  padding: 20px;
+}
 .col-1 {
   float: left;
   width: 32%;
